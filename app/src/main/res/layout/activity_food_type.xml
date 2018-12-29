@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#b6d1ef"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodType">
+
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:text="TYPE OF FOOD"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+
+    <Button
+        android:id="@+id/button1"
+        android:background="#f5f6fc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:textSize="20dp"
+        android:layout_marginTop="112dp"
+        android:text="Leftovers" />
+
+    <Button
+        android:id="@+id/button2"
+        android:textSize="20dp"
+        android:background="#f5f6fc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="182dp"
+        android:text="Processed Free Food" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="214dp"
+        android:background="#f5f6fc"
+        android:text="Food close to expiry date"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>

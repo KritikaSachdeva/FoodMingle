@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987489486736",
+    "firebase_url": "https://foodmingle-4dcc4.firebaseio.com",
+    "project_id": "foodmingle-4dcc4",
+    "storage_bucket": "foodmingle-4dcc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987489486736:android:648a2410f1a05ff8",
+        "android_client_info": {
+          "package_name": "com.example.kritikasachdeva.foodmingle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987489486736-ukkj14s0qe6r1nklahgq7uu5uhqnk7j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kritikasachdeva.foodmingle",
+            "certificate_hash": "cae727837be56cfbad05636e186e88cbd9a8c5cd"
+          }
+        },
+        {
+          "client_id": "987489486736-ot036stbm8e6mali8u7tar29kqg717jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwABR_CPKgKjLYWt0zgLH1oTUU2-ztGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987489486736-ot036stbm8e6mali8u7tar29kqg717jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
